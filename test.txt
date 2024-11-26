@@ -1,3 +1,4 @@
 Praktikum Algoritma Pemrograman
 1.  Instalasi dan pengenalan python
 2.  Jenis Error, variabel, tipe data, konstanta, input dan output
+3.  Operator, dan Seleksi atau Percabangan
